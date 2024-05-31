@@ -1,6 +1,6 @@
 # Welcome to my Portfolio
 
-Here you will find projects that I realized during my academic period, my free time and in the additional courses I took.
+Here you will find projects that I realized throughout my academic period, my free time and in the additional courses I took.
 
 My purpose is to demonstrate to the world my skills and enthusiasm for data analysis and visualization.
 
