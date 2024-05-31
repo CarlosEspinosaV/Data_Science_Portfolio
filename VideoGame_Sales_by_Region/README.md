@@ -30,4 +30,4 @@ Furthermore, the genre that tends to attract the most audience is 'Action,' prim
 
 ## Credits
 
-These data were obtained from the 'Curso Power BI – Análisis de Datos y Business Intelligence' course taught by Javier Gomez and datdata – Cursos on the Udemy platform.
+These data were obtained from the course 'Curso Power BI – Análisis de Datos y Business Intelligence' taught by Javier Gomez and datdata – Cursos on the Udemy platform.
