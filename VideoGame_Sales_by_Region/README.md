@@ -3,7 +3,9 @@
 
 ## Purpose of the Analysis
 
-We analyzed the total video game sales from 1980 to 2017. The study is divided into four main regions: Europe, Japan, North America, and Others. Additionally, distinctions are made between platforms, genres, and development company for each of the over 16,000 titles studied.
+We analyzed the total video game sales from 1980 to 2017 with the aim of determining which region sells the most video games, along with the prevalent genre and platform during specific periods. 
+
+The study is divided into four main regions: Europe, Japan, North America, and Others. Additionally, distinctions are made between platforms, genres, and development company for each of the over 16,000 titles studied.
 
 ## Data Collection
 
@@ -28,4 +30,4 @@ Furthermore, the genre that tends to attract the most audience is 'Action,' prim
 
 ## Credits
 
-These data were obtained from the XX course taught by YY on the Udemy platform.
+These data were obtained from the 'Curso Power BI – Análisis de Datos y Business Intelligence' course taught by Javier Gomez and datdata – Cursos on the Udemy platform.
