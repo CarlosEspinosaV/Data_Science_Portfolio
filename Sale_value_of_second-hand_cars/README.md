@@ -37,7 +37,9 @@ Since the 'ipynb' file contains detailed comments explaining the process, we wil
 
 As you can observe in the following image, the model performs well in predicting higher prices. However, for lower prices, the predictions do not fit well.
 
-![Targets_vs_Predictions](https://github.com/CarlosEspinosaV/Data_Analyst_Portfolio/blob/3cdce301133d537fc5e41c7cdcea705cefe48562/Sale_value_of_second-hand_cars/car_sales_1.png)
+<p align="center">
+<img alt="Targets_vs_Predictions" src="https://github.com/CarlosEspinosaV/Data_Analyst_Portfolio/blob/3cdce301133d537fc5e41c7cdcea705cefe48562/Sale_value_of_second-hand_cars/car_sales_1.png">
+</p>
 
 Furthermore, if you observe the difference between the target values and our predicted values, the minimum difference is 0.06%, indicating a precise output.
 Additionally, by using percentiles, we found that most of our predictions were relatively close.
