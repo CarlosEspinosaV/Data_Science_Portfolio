@@ -10,7 +10,7 @@ Brand, Mileage, EngineV, and Year.
 
 ## Data Collection
 
-These data are part of an Data Science course I completed and were provided by the instructor.
+These data are part of a Data Science course I completed and were provided by the instructor.
 The context of this exercise is that each owner has uploaded their car's specifications to an online platform.
 
 Of course, this implies that such data contains errors, which is part of the exercise to simulate real business situations.
