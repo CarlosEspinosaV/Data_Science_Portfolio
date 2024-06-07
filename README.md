@@ -16,4 +16,4 @@ Between the different tools that I used to develop these projects are the follow
 
 Please do not hesitate to share with me questions, corrections or suggestions about these projects. 
 
-If you wish to obtain further details regarding my education, professional background, and skill set, please refer to my [Curriculum Vitae](https://github.com/CarlosEspinosaV/Data_Analyst_Portfolio/blob/2e26a3410b1f0756fc09bced54d11c1fc9d4fcbc/Carlos_Espinosa_Data_Analyst_CV.pdf). Alternatively, you may contact me via email at espinosa.vca@gmail.com.
+If you wish to obtain further details regarding my education, professional background, and skill set, please refer to my [Curriculum Vitae](https://github.com/CarlosEspinosaV/Data_Analyst_Portfolio/blob/1a8b3d569335420ef1226fd199a883d50d678c42/Carlos_Espinosa_Data_Analyst_CV.pdf). Alternatively, you may contact me via email at espinosa.vca@gmail.com.
