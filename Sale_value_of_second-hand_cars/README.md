@@ -21,7 +21,7 @@ This section outlines the processes and decisions made regarding the data to pre
 
 The analysis was performed using _Python_ with the following libraries: `numpy`, `pandas`, `statsmodels`, `matplotlib`, `sklearn` and `seaborn`.
 
-Since the 'ipynb' file contains detailed comments explaining the process, we will focus on summarizing the steps performed for the analysis.
+Since the `ipynb` file contains detailed comments explaining the process, we will focus on summarizing the steps performed for the analysis.
 
 1. As previously mentioned, these data contain various errors, so the first step was a process of cleaning and transformation. 
 
