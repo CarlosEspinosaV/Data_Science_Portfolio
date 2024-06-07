@@ -18,7 +18,7 @@ This section outlines the processes and decisions made regarding the data to pre
 
 The analysis was performed using _Python_ with the following libraries: `numpy`, `pandas`, `matplotlib`, `sklearn` and `seaborn`.
 
-Since the 'ipynb' file contains detailed comments explaining the process, we will focus on summarizing the steps performed for the analysis.
+Since the `ipynb` file contains detailed comments explaining the process, we will focus on summarizing the steps performed for the analysis.
 
 1. The first step is to plot the data to determine whether an exhaustive analysis is required to obtain the clusters or if they occur naturally.
 
