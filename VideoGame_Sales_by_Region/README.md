@@ -29,7 +29,7 @@ As our visualizations show, North America typically has the highest sales, follo
 Furthermore, the genre that tends to attract the most audience is 'Action,' primarily concentrated on the PS3 platform. However, it is the PS2 platform that dominates the sales market.
 
 <p align="center">
-<img src="https://github.com/CarlosEspinosaV/Data_Analyst_Portfolio/blob/fd069f9255f2b377549ed75bea573e7e98540c1e/VideoGame_Sales_by_Region/screenshot.png">
+<img src="screenshot.png">
 </p>
 
 ## Credits
