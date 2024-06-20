@@ -61,8 +61,6 @@ As shown in the first panel, the number of returns has decreased over time. Unfo
 
 Furthermore, as observed in the second and fourth panels, despite 2009 having the lowest number of returns, its total revenues do not exceed those of 2008. Therefore, we can infer that the store's greatest losses are not primarily due to the number of returns but potentially to other factors such as advertising, location, product variety, etc.
 
-En este sentido, se podría considerar un estudio más exhaustivo para encontrar una correlación entre los productos vendidos, así como el periodo del tiempo en que se venden. De esta forma, quizá se podría enfocar en vender ciertos productos por temporada, aumentando así las ventas y manteniendo el inventario sin productos no vendidos.
-
 In this regard, a more exhaustive study could be considered to find a correlation between the products sold and the time periods in which they are sold. A possible approach could be to focus on selling certain products seasonally, thereby increasing sales and keeping inventory free of unsold products.
 
 Finally, most of the company's stores are small, but they generate the most profits. Therefore, it is essential to prioritize small stores when developing sales plans, such as advertising or restocking, instead of focusing exclusively on large and medium-sized stores.
