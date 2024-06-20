@@ -9,5 +9,6 @@ The techniques used include:
 - Decision Tree Classifier
 - Random Forest Classifier
 - K Neighbors Classifier
+- XGBoost
 
 Once we complete the study, I will upload the entire project to this folder.
