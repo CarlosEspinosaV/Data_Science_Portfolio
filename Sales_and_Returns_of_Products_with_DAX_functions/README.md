@@ -29,31 +29,37 @@ In our first panel, we show the trend of returns in recent years by category and
 
 <p align="center">
   <img height=auto width="550" src="images/returns.png" hspace="30">
-      <figcaption style="text-align:center">Panel 1: Return history.</figcaption>
-
  </p>
+<p align="center">
+    Panel 1: Return history.
+</p>
  
- Meanwhile, the second panel shows the variation in total revenue from a specific date compared to the corresponding date of the previous year. Additionally, we added color indicators to facilitate the interpretation of the variation: green indicates an increase, while red indicates a decrease.
+Meanwhile, the second panel shows the variation in total revenue from a specific date compared to the corresponding date of the previous year. Additionally, we added color indicators to facilitate the interpretation of the variation: green indicates an increase, while red indicates a decrease.
  
- <p align="center">
+<p align="center">
  <img height=auto width="550" src="images/variation_in_revenues.png">
-  <figcaption style="text-align:center">Panel 2: Annual variation.</figcaption>
+</p>
+<p align="center">
+    Panel 2: Annual variation.
 </p>
 
 In the third panel, we can observe the total sales amount of each store and its global ranking. Additionally, several filters were added to analyze sales by store size, product, year, and continent.
 
 <p align="center">
  <img height=auto width="550" src="images/store_size.png">
-  <figcaption style="text-align:center">Panel 3: Store classification.</figcaption>
+</p>
+<p align="center">
+    Panel 3: Store classification.
 </p>
 
 In our last panel, we conduct a more in-depth study of the annual variation in total revenues. This study is segmented by year, continent, and product category. Once again, we use the same color pattern: green indicates an increase, while red indicates a decrease.
 
 <p align="center">
  <img height=auto width="550" src="images/variation_in_revenues_2.png">
-  <figcaption style="text-align:center">Panel 4: Store classification.</figcaption>
 </p>
-
+<p align="center">
+    Panel 4: Store classification.
+</p>
 
 ## Data  Interpretation
 
