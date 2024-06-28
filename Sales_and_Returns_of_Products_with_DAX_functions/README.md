@@ -30,7 +30,6 @@ In our first panel, we show the trend of returns in recent years by category and
 <p align="center">
   <img height=auto width="550" src="images/returns.png" hspace="30">
       <figcaption style="text-align:center">Panel 1: Return history.</figcaption>
-
  </p>
  
  Meanwhile, the second panel shows the variation in total revenue from a specific date compared to the corresponding date of the previous year. Additionally, we added color indicators to facilitate the interpretation of the variation: green indicates an increase, while red indicates a decrease.
