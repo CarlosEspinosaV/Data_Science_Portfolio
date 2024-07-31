@@ -11,7 +11,7 @@ Between the different tools that I used to develop these projects are the follow
  - SQL
  - Excel
  - Access
- - Power Bi
+ - Power BI
  - Tableu
 
 Please do not hesitate to share with me questions, corrections or suggestions about these projects. 
